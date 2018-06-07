@@ -1,0 +1,11 @@
+go to github
+make a repo
+add a readme to create
+go to computer
+git clone the repo (try using shift-insert)
+copy files to the repo on your computer
+git status //after every command
+git add .
+git commit -a -m "initial commit"
+git push origin master
+
